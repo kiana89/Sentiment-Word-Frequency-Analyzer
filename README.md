@@ -55,9 +55,9 @@ No external libraries required beyond standard Python packages:
 
 | Word  | Total Count | Happy Count | Sad Count |
 | ----- | ----------- | ----------- | --------- |
-| great | 15          | 13          | 2         |
-| bad   | 12          | 1           | 11        |
-| fast  | 8           | 7           | 1         |
+| خوب | 12389       | 8933        | 3456      |
+| ارسال   | 4932        | 2265        | 2267      |
+| بد  | 4275        | 636         | 3639      |
 
 ---
 
